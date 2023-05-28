@@ -14,7 +14,7 @@ const About = () => {
           <a
             target='_blank'
             rel='noreferrer'
-            href='https://www.linkedin.com/in/phuc-le-vinh/'
+            href=''
           >
             <i className='fab fa-linkedin'></i>
             <span>Linkedin</span>
@@ -22,7 +22,7 @@ const About = () => {
           <a
             target='_blank'
             rel='noreferrer'
-            href='https://github.com/phuclevinh2000/Lofi-website'
+            href='https://github.com/nosime'
           >
             <i className='fab fa-github'></i>
             <span>GitHub</span>
@@ -34,14 +34,7 @@ const About = () => {
         </div>
       </nav>
       <section className='description'>
-        <h1>Welcome to the auto genrate lofi music made by Phuc Le.</h1>
-        <h1>The purpose of this application is for learning</h1>
-        <h1>This is a web application inspired by Lofi.co.</h1>
-        <h1>
-          This web application can generate background noises, lofi music, focus
-          mode, and you can set everything
-        </h1>
-        <h1>Hope this will help you guys work more effectively</h1>
+        <h1>Welcome to the auto genrate lofi music made by Nosime.</h1>
         <Link to='/'>
           <button className='btn-primary'>Back to homepage</button>
         </Link>
